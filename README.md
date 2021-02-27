@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=petertrr&theme=onedark)
+
+Hi, I'm Peter Trifanov, a backend developer and open source enthusiast.
+
+* ⚙️ Kotlin (JVM, JS, Native), Java, Python, C/C++
+* 💻 Arch Linux, Intellij IDEA
+
+🔭 I’m currently working on [diktat](https://github.com/cqfn/diktat) - linter and formatter for Kotlin.
+
 <!--
 **petertrr/petertrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
