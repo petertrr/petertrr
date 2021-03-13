@@ -7,7 +7,9 @@ Hi, I'm Peter Trifanov, a backend developer and open source enthusiast.
 * ⚙️ Kotlin (JVM, JS, Native), Java, Python, C/C++
 * 💻 Arch Linux, Intellij IDEA
 
-🔭 I’m currently working on [diktat](https://github.com/cqfn/diktat) - linter and formatter for Kotlin.
+🔭 I’m currently working on:
+* [diktat](https://github.com/cqfn/diktat) - linter and formatter for Kotlin.
+* [kotlin-multiplatform-diff](https://github.com/petertrr/kotlin-multiplatform-diff) - a kotlin multiplatform library for calculating text diffs
 
 <!--
 **petertrr/petertrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
