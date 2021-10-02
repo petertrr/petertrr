@@ -8,8 +8,10 @@ Hi, I'm Peter Trifanov, a backend developer and open source enthusiast.
 * 💻 Arch Linux, Intellij IDEA
 
 🔭 I’m currently working on:
-* [diktat](https://github.com/cqfn/diktat) - linter and formatter for Kotlin.
+* [save](https://github.com/cqfn/save) and [save-cloud](https://github.com/cqfn/save-cloud) - a platform for testing code analysis tools
+* [initiative-bot](https://github.com/petertrr/initiative-bot) - a discord bot for Dungeons & Dragons for tracking initiative
 * [kotlin-multiplatform-diff](https://github.com/petertrr/kotlin-multiplatform-diff) - a kotlin multiplatform library for calculating text diffs
+* [diktat](https://github.com/cqfn/diktat) - linter and formatter for Kotlin.
 
 <!--
 **petertrr/petertrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
